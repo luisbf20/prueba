@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tarde\\Desktop\\DESIN\\visualstudio\\FlotaLuisBuenoFernandez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5186D6-0413-F9F1-3B43-74A8C774334D}|FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez.csproj|c:\\users\\tarde\\desktop\\desin\\visualstudio\\flotaluisbuenofernandez\\flotaluisbuenofernandez\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5186D6-0413-F9F1-3B43-74A8C774334D}|FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez.csproj|solutionrelative:flotaluisbuenofernandez\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5186D6-0413-F9F1-3B43-74A8C774334D}|FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez.csproj|c:\\users\\tarde\\desktop\\desin\\visualstudio\\flotaluisbuenofernandez\\flotaluisbuenofernandez\\logicanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5186D6-0413-F9F1-3B43-74A8C774334D}|FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez.csproj|solutionrelative:flotaluisbuenofernandez\\logicanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5186D6-0413-F9F1-3B43-74A8C774334D}|FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez.csproj|c:\\users\\tarde\\desktop\\desin\\visualstudio\\flotaluisbuenofernandez\\flotaluisbuenofernandez\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1C5186D6-0413-F9F1-3B43-74A8C774334D}|FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez.csproj|solutionrelative:flotaluisbuenofernandez\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5186D6-0413-F9F1-3B43-74A8C774334D}|FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez.csproj|c:\\users\\tarde\\desktop\\desin\\visualstudio\\flotaluisbuenofernandez\\flotaluisbuenofernandez\\jugada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5186D6-0413-F9F1-3B43-74A8C774334D}|FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez.csproj|solutionrelative:flotaluisbuenofernandez\\jugada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Tarde\\Desktop\\DESIN\\visualstudio\\FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez\\LogicaNegocio.cs",
+              "RelativeDocumentMoniker": "FlotaLuisBuenoFernandez\\LogicaNegocio.cs",
+              "ToolTip": "C:\\Users\\Tarde\\Desktop\\DESIN\\visualstudio\\FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez\\LogicaNegocio.cs",
+              "RelativeToolTip": "FlotaLuisBuenoFernandez\\LogicaNegocio.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:00:01.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jugada.cs",
+              "DocumentMoniker": "C:\\Users\\Tarde\\Desktop\\DESIN\\visualstudio\\FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez\\Jugada.cs",
+              "RelativeDocumentMoniker": "FlotaLuisBuenoFernandez\\Jugada.cs",
+              "ToolTip": "C:\\Users\\Tarde\\Desktop\\DESIN\\visualstudio\\FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez\\Jugada.cs",
+              "RelativeToolTip": "FlotaLuisBuenoFernandez\\Jugada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:58:09.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Tarde\\Desktop\\DESIN\\visualstudio\\FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FlotaLuisBuenoFernandez\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Tarde\\Desktop\\DESIN\\visualstudio\\FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez\\MainWindow.xaml",
+              "RelativeToolTip": "FlotaLuisBuenoFernandez\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T14:18:20.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tarde\\Desktop\\DESIN\\visualstudio\\FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FlotaLuisBuenoFernandez\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Tarde\\Desktop\\DESIN\\visualstudio\\FlotaLuisBuenoFernandez\\FlotaLuisBuenoFernandez\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FlotaLuisBuenoFernandez\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwFoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:18:19.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
